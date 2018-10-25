@@ -1,0 +1,188 @@
+1540397636529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mgPXIPVTDjEw"
+
+(firefox:4347): Gtk-WARNING **: 19:13:57.040: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4347): Gtk-WARNING **: 19:13:57.040: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540397637881	Marionette	INFO	Listening on port 38761
+1540397637945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540397637987	Marionette	DEBUG	[2147483649] Frame script loaded
+1540397637992	Marionette	DEBUG	[2147483649] Frame script registered
+1540397638004	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540397638414	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540397638578	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1540397639473	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+1540397973720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eTACdlhd164U"
+
+(firefox:4686): Gtk-WARNING **: 19:19:34.247: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4686): Gtk-WARNING **: 19:19:34.247: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540397975075	Marionette	INFO	Listening on port 42897
+1540397975136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540397975179	Marionette	DEBUG	[2147483649] Frame script loaded
+1540397975182	Marionette	DEBUG	[2147483649] Frame script registered
+1540397975195	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540397976127	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540397979918	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://finance.yahoo.com/quote/BAB?p=BAB&.tsrc=fin-srch-v1
+[Parent 4347, Gecko_IOThread] WARNING: pipe error (74): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540397988174	Marionette	INFO	Stopped listening on port 38761
+1540397988514	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483768
+1540397989533	Marionette	DEBUG	[2147483649] Received DOM event unload for https://finance.yahoo.com/quote/BAB?p=BAB&.tsrc=fin-srch-v1
+1540397989591	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1540397989592	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1540397989592	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1540397989593	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1540397989593	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540397989593	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483727
+1540397989593	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483728
+1540397989593	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483678
+1540397989594	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483708
+1540397989594	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+1540397989595	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1540397989595	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1540397989595	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1540397989596	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1540397989596	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1540397989596	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1540397989596	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1540397989596	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1540397989596	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483688
+1540397989597	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483689
+1540397989597	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483690
+1540397989597	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483691
+1540397989597	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483692
+1540397989597	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483693
+1540397989597	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1540397989598	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483672
+1540397989598	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483670
+1540397989598	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483711
+1540397989598	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1540397989598	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483764
+1540397989598	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483740
+1540397989598	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483737
+1540397989599	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483744
+1540397989599	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483745
+1540397989599	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483746
+1540397989599	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483747
+1540397989599	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483748
+1540397989599	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483749
+1540397989599	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483750
+1540397989600	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483751
+1540397989600	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483736
+1540397989600	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483734
+1540397989600	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483732
+1540397989600	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483741
+1540397989600	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483726
+1540397989601	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1540397989726	Marionette	INFO	Stopped listening on port 42897
+1540398080195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WIDB6mMOUC9j"
+
+(firefox:4980): Gtk-WARNING **: 19:21:20.716: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4980): Gtk-WARNING **: 19:21:20.716: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540398081605	Marionette	INFO	Listening on port 39333
+1540398081701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540398081738	Marionette	DEBUG	[2147483649] Frame script loaded
+1540398081739	Marionette	DEBUG	[2147483649] Frame script registered
+1540398081750	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540398083304	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540398084022	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+1540398084270	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.yandex.ru/
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 4980, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540398088310	Marionette	INFO	Stopped listening on port 39333
+1540398127656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pgIQ1V8W4GTb"
+
+(firefox:5209): Gtk-WARNING **: 19:22:08.160: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5209): Gtk-WARNING **: 19:22:08.160: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540398128969	Marionette	INFO	Listening on port 46263
+1540398129066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540398129108	Marionette	DEBUG	[2147483649] Frame script loaded
+1540398129109	Marionette	DEBUG	[2147483649] Frame script registered
+1540398129120	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540398129890	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540398131340	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://finance.yahoo.com/quote/BAB?p=BAB&.tsrc=fin-srch-v1
+1540398133649	Marionette	DEBUG	[2147483649] Received DOM event unload for https://finance.yahoo.com/quote/BAB?p=BAB&.tsrc=fin-srch-v1
+1540398133668	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1540398133668	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1540398133668	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1540398133668	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1540398133669	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540398133669	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1540398133669	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1540398133669	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1540398133669	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1540398133670	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1540398133670	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483675
+1540398133670	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1540398133670	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5309, Chrome_ChildThread] WARNING: pipe error (3): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1540398135874	Marionette	INFO	Stopped listening on port 46263
+1540398976224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aZVloqi0e7ao"
+
+(firefox:5585): Gtk-WARNING **: 19:36:16.772: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5585): Gtk-WARNING **: 19:36:16.772: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540398978531	Marionette	INFO	Listening on port 40757
+1540398978633	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540398978677	Marionette	DEBUG	[2147483649] Frame script loaded
+1540398978678	Marionette	DEBUG	[2147483649] Frame script registered
+1540398978691	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540398978699	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540398978702	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540398978729	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=https%3A//finance.yahoo.com/quote/BAB%3Fp%3DBAB%26.tsrc%3Dfin-srch-v1&c=UTF-8&f=regular&d=%D0% ... BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F%20%D0%BA%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D1%83%20finance.yahoo.com.
+[Parent 5585, Gecko_IOThread] WARNING: pipe error (70): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540398982654	Marionette	INFO	Stopped listening on port 40757
+1540399064010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pPSDAKFlM7Pb"
+
+(firefox:5842): Gtk-WARNING **: 19:37:44.528: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5842): Gtk-WARNING **: 19:37:44.528: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540399065352	Marionette	INFO	Listening on port 45841
+1540399065418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540399065459	Marionette	DEBUG	[2147483649] Frame script loaded
+1540399065460	Marionette	DEBUG	[2147483649] Frame script registered
+1540399065483	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540399066420	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540399067744	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://finance.yahoo.com/quote/BAB?p=BAB&.tsrc=fin-srch-v1
+1540399077204	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483691
+1540399152586	Marionette	DEBUG	[2147483649] Received DOM event unload for https://finance.yahoo.com/quote/BAB?p=BAB&.tsrc=fin-srch-v1
+1540399152629	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1540399152630	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1540399152631	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1540399152631	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1540399152631	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540399152632	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1540399152632	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1540399152632	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1540399152632	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483673
+1540399152633	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483669
+1540399152634	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1540399152634	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1540399152634	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1540399152635	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1540399152635	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1540399152635	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1540399152635	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483688
+1540399152635	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483678
+1540399152636	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 5842, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540399152749	Marionette	INFO	Stopped listening on port 45841
