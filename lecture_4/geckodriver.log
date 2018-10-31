@@ -186,3 +186,118 @@ IPDL protocol error: Handler returned error code!
 1540399152636	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
 [Parent 5842, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 1540399152749	Marionette	INFO	Stopped listening on port 45841
+1540841517351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9Lqcfp8wjtUR"
+
+(firefox:2527): Gtk-WARNING **: 22:31:57.857: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2527): Gtk-WARNING **: 22:31:57.857: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540841518670	Marionette	INFO	Listening on port 37153
+1540841518762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540841518798	Marionette	DEBUG	[2147483649] Frame script loaded
+1540841518799	Marionette	DEBUG	[2147483649] Frame script registered
+1540841518811	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540841519020	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540841519089	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1540841519603	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+[Parent 2527, Gecko_IOThread] WARNING: pipe error (70): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540841525872	Marionette	INFO	Stopped listening on port 37153
+1540841531773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PEZBrnkpKecS"
+
+(firefox:2751): Gtk-WARNING **: 22:32:12.260: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2751): Gtk-WARNING **: 22:32:12.260: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540841533036	Marionette	INFO	Listening on port 34305
+1540841533079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540841533119	Marionette	DEBUG	[2147483649] Frame script loaded
+1540841533121	Marionette	DEBUG	[2147483649] Frame script registered
+1540841533145	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540841534345	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540841534426	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1540841534897	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+[Parent 2751, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540841569327	Marionette	INFO	Stopped listening on port 34305
+1540841573170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xLacphFpwlMG"
+
+(firefox:2976): Gtk-WARNING **: 22:32:53.676: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2976): Gtk-WARNING **: 22:32:53.676: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540841574544	Marionette	INFO	Listening on port 38513
+1540841574582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540841574620	Marionette	DEBUG	[2147483649] Frame script loaded
+1540841574622	Marionette	DEBUG	[2147483649] Frame script registered
+1540841574648	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540841574839	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540841574934	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1540841575434	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+[Parent 2976, Gecko_IOThread] WARNING: pipe error (79): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540841578000	Marionette	INFO	Stopped listening on port 38513
+1540841599001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ONww0B1Oql3M"
+
+(firefox:3203): Gtk-WARNING **: 22:33:19.505: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3203): Gtk-WARNING **: 22:33:19.505: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540841600270	Marionette	INFO	Listening on port 45547
+1540841600316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540841600353	Marionette	DEBUG	[2147483649] Frame script loaded
+1540841600357	Marionette	DEBUG	[2147483649] Frame script registered
+1540841600374	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540841600591	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540841600665	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1540841601140	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+[Parent 3203, Gecko_IOThread] WARNING: pipe error (74): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540841604154	Marionette	INFO	Stopped listening on port 45547
+1540841609793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ecxXPyqe2M0e"
+
+(firefox:3426): Gtk-WARNING **: 22:33:30.317: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3426): Gtk-WARNING **: 22:33:30.317: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540841611151	Marionette	INFO	Listening on port 35997
+1540841611203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540841611250	Marionette	DEBUG	[2147483649] Frame script loaded
+1540841611252	Marionette	DEBUG	[2147483649] Frame script registered
+1540841611272	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540841612310	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540841613381	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://finance.yahoo.com/quote/BAB?p=BAB&.tsrc=fin-srch-v1
+JavaScript error: https://s.yimg.com/uc/finance/dd-site/js/vendor.1a6f5779ec97a7fb6023.min.js, line 44: HttpError: Attempting to prefetch a non-content url
+1540841616608	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1540841629493	Marionette	DEBUG	[2147483649] Received DOM event unload for https://finance.yahoo.com/quote/BAB?p=BAB&.tsrc=fin-srch-v1
+1540841629519	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1540841629520	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1540841629520	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1540841629520	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1540841629521	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540841629521	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1540841629521	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1540841629521	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 3426, Gecko_IOThread] WARNING: pipe error (74): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540841629657	Marionette	INFO	Stopped listening on port 35997
+1540841634064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.26Q318TdrTSY"
+
+(firefox:3663): Gtk-WARNING **: 22:33:54.568: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3663): Gtk-WARNING **: 22:33:54.568: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540841635328	Marionette	INFO	Listening on port 45441
+1540841635373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540841635415	Marionette	DEBUG	[2147483649] Frame script loaded
+1540841635420	Marionette	DEBUG	[2147483649] Frame script registered
+1540841635432	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540841635811	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540841636358	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+1540841636550	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.yandex.ru/
+[Parent 3663, Gecko_IOThread] WARNING: pipe error (74): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540841790987	Marionette	INFO	Stopped listening on port 45441
+1540841793097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OZ37NympSCTF"
+
+(firefox:3929): Gtk-WARNING **: 22:36:33.592: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3929): Gtk-WARNING **: 22:36:33.592: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540841794363	Marionette	INFO	Listening on port 44251
+1540841794403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540841794441	Marionette	DEBUG	[2147483649] Frame script loaded
+1540841794446	Marionette	DEBUG	[2147483649] Frame script registered
+1540841794460	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540841794863	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540841795589	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+1540841796776	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.yandex.ru/
+[Parent 3929, Gecko_IOThread] WARNING: pipe error (74): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540841799614	Marionette	INFO	Stopped listening on port 44251
